@@ -1,0 +1,2 @@
+﻿- Alternative yarn for recipe given the gauge
+- Amount of yarn if another yarn is used for the recipe
