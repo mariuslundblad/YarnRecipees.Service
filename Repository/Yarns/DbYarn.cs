@@ -6,20 +6,12 @@ public class DbYarn
 {
     public ObjectId Id { get; set; }
     public string brand { get; set; }
-    public string name { get; set; }
-    public string description { get; set; }
-    public string composition { get; set; }
-    public string length { get; set; }
+    public string product_name { get; set; }
+    public string material { get; set; }
+    public string length_per_skein { get; set; }
     public string weight { get; set; }
-    public string recommended_needle_size { get; set; }
-    public string gauge { get; set; }
-    public string care_instructions { get; set; }
+    public string needle_size { get; set; }
+    public string stitches_per_10cm { get; set; }
+    public string[] colors { get; set; }
     
-    public DbYarnColor[] colors { get; set; }
-}
-
-public class DbYarnColor
-{
-    public string name { get; set; }
-    public string color_code { get; set; }
 }

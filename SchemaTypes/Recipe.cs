@@ -10,8 +10,14 @@ public class Recipe
     public string Category { get; set; }
     public string Yarn { get; set; }
     public ICollection<string> Sizes { get; set; }
-    public ICollection<string> Needles { get; set; }
-    public string Difficulty { get; set; }
+
+    public string SubCategory { get; set; }
+
+    public string Needles { get; set; }
+
+    public Dictionary<string, string> YarnNeeded { get; set; }
+
+    public Dictionary<string, string> SizeChart { get; set; }
     
     public static Recipe MapFromDbRecipe(DbRecipe? recipe)
     {
@@ -20,10 +26,13 @@ public class Recipe
             Id = recipe.Id,
             Name = recipe.name,
             Category = recipe.category,
+            SubCategory = recipe.subcategory,
+            Needles = recipe.needles,
             Yarn = recipe.yarn,
             Sizes = recipe.sizes,
-            Needles = recipe.needles,
-            Difficulty = recipe.difficulty
+            SizeChart = recipe.size_chart,
+            YarnNeeded = recipe.yarn_needed,
+            
         };
     }
 }

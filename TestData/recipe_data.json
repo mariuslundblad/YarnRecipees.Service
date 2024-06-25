@@ -1,0 +1,147 @@
+﻿[
+  {
+    "_id": {"$oid": "60d21b9677d6fc7a8a2b0d99"},
+    "name": "Ankers Trøje My Size",
+    "category": "Petite Knit",
+    "subcategory": "Barn/Baby",
+    "description": "Anker's cardigan for children with a textured yoke.",
+    "yarn": "Sandnes Garn Merinoull",
+    "needles": "3.5 mm and 4.0 mm",
+    "sizes": ["3 months", "6 months", "12 months", "2 years", "4 years", "6 years", "8 years"],
+    "size_chart": {
+      "3 months": "50 cm chest, 27 cm length",
+      "6 months": "56 cm chest, 29 cm length",
+      "12 months": "62 cm chest, 32 cm length",
+      "2 years": "68 cm chest, 35 cm length",
+      "4 years": "74 cm chest, 38 cm length",
+      "6 years": "80 cm chest, 41 cm length",
+      "8 years": "86 cm chest, 44 cm length"
+    },
+    "yarn_needed": {
+      "3 months": "200 g",
+      "6 months": "200 g",
+      "12 months": "250 g",
+      "2 years": "300 g",
+      "4 years": "350 g",
+      "6 years": "400 g",
+      "8 years": "450 g"
+    },
+    "image_url": "https://www.idestova.no/media/catalog/product/cache/1/image/800x1200/9df78eab33525d08d6e5fb8d27136e95/a/n/ankers-troje-my-size_1.jpg"
+  },
+  {
+    "_id": {"$oid": "60d21b9677d6fc7a8a2b0d9a"},
+    "name": "Sunday Sweater Junior",
+    "category": "Petite Knit",
+    "subcategory": "Barn/Baby",
+    "description": "A cozy and simple sweater for children.",
+    "yarn": "Sandnes Garn Sunday",
+    "needles": "4.0 mm and 5.0 mm",
+    "sizes": ["3 months", "6 months", "12 months", "2 years", "4 years", "6 years", "8 years"],
+    "size_chart": {
+      "3 months": "50 cm chest, 27 cm length",
+      "6 months": "56 cm chest, 29 cm length",
+      "12 months": "62 cm chest, 32 cm length",
+      "2 years": "68 cm chest, 35 cm length",
+      "4 years": "74 cm chest, 38 cm length",
+      "6 years": "80 cm chest, 41 cm length",
+      "8 years": "86 cm chest, 44 cm length"
+    },
+    "yarn_needed": {
+      "3 months": "200 g",
+      "6 months": "200 g",
+      "12 months": "250 g",
+      "2 years": "300 g",
+      "4 years": "350 g",
+      "6 years": "400 g",
+      "8 years": "450 g"
+    },
+    "image_url": "https://www.idestova.no/media/catalog/product/cache/1/image/800x1200/9df78eab33525d08d6e5fb8d27136e95/s/u/sunday_sweater_junior.jpg"
+  },
+  {
+    "_id": {"$oid": "60d21b9677d6fc7a8a2b0d9b"},
+    "name": "Moby Sweater Junior",
+    "category": "Petite Knit",
+    "subcategory": "Barn/Baby",
+    "description": "A classic and stylish sweater for children.",
+    "yarn": "Sandnes Garn Double Sunday",
+    "needles": "4.0 mm and 5.0 mm",
+    "sizes": ["3 months", "6 months", "12 months", "2 years", "4 years", "6 years", "8 years"],
+    "size_chart": {
+      "3 months": "50 cm chest, 27 cm length",
+      "6 months": "56 cm chest, 29 cm length",
+      "12 months": "62 cm chest, 32 cm length",
+      "2 years": "68 cm chest, 35 cm length",
+      "4 years": "74 cm chest, 38 cm length",
+      "6 years": "80 cm chest, 41 cm length",
+      "8 years": "86 cm chest, 44 cm length"
+    },
+    "yarn_needed": {
+      "3 months": "200 g",
+      "6 months": "200 g",
+      "12 months": "250 g",
+      "2 years": "300 g",
+      "4 years": "350 g",
+      "6 years": "400 g",
+      "8 years": "450 g"
+    },
+    "image_url": "https://www.idestova.no/media/catalog/product/cache/1/image/800x1200/9df78eab33525d08d6e5fb8d27136e95/m/o/moby_sweater_junior.jpg"
+  },
+  {
+    "_id": {"$oid": "60d21b9677d6fc7a8a2b0d9c"},
+    "name": "Balloon Sweater Junior",
+    "category": "Petite Knit",
+    "subcategory": "Barn/Baby",
+    "description": "A balloon-shaped sweater for children.",
+    "yarn": "Sandnes Garn Sunday",
+    "needles": "3.0 mm and 4.0 mm",
+    "sizes": ["3 months", "6 months", "12 months", "2 years", "4 years", "6 years", "8 years"],
+    "size_chart": {
+      "3 months": "50 cm chest, 27 cm length",
+      "6 months": "56 cm chest, 29 cm length",
+      "12 months": "62 cm chest, 32 cm length",
+      "2 years": "68 cm chest, 35 cm length",
+      "4 years": "74 cm chest, 38 cm length",
+      "6 years": "80 cm chest, 41 cm length",
+      "8 years": "86 cm chest, 44 cm length"
+    },
+    "yarn_needed": {
+      "3 months": "200 g",
+      "6 months": "200 g",
+      "12 months": "250 g",
+      "2 years": "300 g",
+      "4 years": "350 g",
+      "6 years": "400 g",
+      "8 years": "450 g"
+    },
+    "image_url": "https://www.idestova.no/media/catalog/product/cache/1/image/800x1200/9df78eab33525d08d6e5fb8d27136e95/b/a/balloon_sweater_junior.jpg"
+  },
+  {
+    "_id": {"$oid": "60d21b9677d6fc7a8a2b0d9d"},
+    "name": "Louisiana Sweater Junior",
+    "category": "Petite Knit",
+    "subcategory": "Barn/Baby",
+    "description": "A lightweight sweater for children.",
+    "yarn": "Sandnes Garn Tynn Line",
+    "needles": "3.0 mm and 4.0 mm",
+    "sizes": ["3 months", "6 months", "12 months", "2 years", "4 years", "6 years", "8 years"],
+    "size_chart": {
+      "3 months": "50 cm chest, 27 cm length",
+      "6 months": "56 cm chest, 29 cm length",
+      "12 months": "62 cm chest, 32 cm length",
+      "2 years": "68 cm chest, 35 cm length",
+      "4 years": "74 cm chest, 38 cm length",
+      "6 years": "80 cm chest, 41 cm length",
+      "8 years": "86 cm chest, 44 cm length"
+    },
+    "yarn_needed": {
+      "3 months": "200 g",
+      "6 months": "200 g",
+      "12 months": "250 g",
+      "2 years": "300 g",
+      "4 years": "350 g",
+      "6 years": "400 g",
+      "8 years": "450 g"
+    },
+    "image_url": "https://www.idestova.no/media/catalog/product/cache/1/image/800x1200/9df78eab33525d08d6e5fb8d27136e95/l/o/louisiana_sweater_junior.jpg"
+  }
+]

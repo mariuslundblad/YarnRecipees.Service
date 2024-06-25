@@ -9,6 +9,7 @@
   <ItemGroup>
     <PackageReference Include="HotChocolate.AspNetCore" Version="13.7.0" />
     <PackageReference Include="MongoDB.Driver" Version="2.26.0" />
+    <PackageReference Include="Moq" Version="4.20.70" />
   </ItemGroup>
 
 

@@ -1,0 +1,68 @@
+﻿[
+  {
+    "_id": {"$oid": "60b8d6d2f1d2b6001c8b4567"},
+    "product_name": "Tynn Silk Mohair",
+    "brand": "Sandnes Garn",
+    "weight": "25g",
+    "material": "57% mohair, 15% wool, 28% silk",
+    "length_per_skein": "212m",
+    "stitches_per_10cm": "24-27",
+    "needle_size": "3-5 mm",
+    "colors": ["White", "Black", "Grey", "Beige", "Pink", "Blue", "Green"]
+  },
+  {
+    "_id": {"$oid": "60b8d6d2f1d2b6001c8b4568"},
+    "product_name": "Alpakka Ull",
+    "brand": "Sandnes Garn",
+    "weight": "50g",
+    "material": "65% alpaca, 35% wool",
+    "length_per_skein": "100m",
+    "stitches_per_10cm": "19-22",
+    "needle_size": "4-5 mm",
+    "colors": ["Light Grey", "Dark Grey", "Brown", "Red", "Yellow", "Navy"]
+  },
+  {
+    "_id": {"$oid": "60b8d6d2f1d2b6001c8b4569"},
+    "product_name": "Sunday",
+    "brand": "Sandnes Garn",
+    "weight": "50g",
+    "material": "100% merino wool",
+    "length_per_skein": "235m",
+    "stitches_per_10cm": "28-32",
+    "needle_size": "3 mm",
+    "colors": ["White", "Black", "Grey", "Pink", "Lavender", "Green", "Blue"]
+  },
+  {
+    "_id": {"$oid": "60b8d6d2f1d2b6001c8b456a"},
+    "product_name": "Mini Alpakka",
+    "brand": "Sandnes Garn",
+    "weight": "50g",
+    "material": "100% alpaca",
+    "length_per_skein": "150m",
+    "stitches_per_10cm": "27",
+    "needle_size": "3 mm",
+    "colors": ["Light Blue", "Light Pink", "Beige", "Green", "Rust", "Mustard"]
+  },
+  {
+    "_id": {"$oid": "60b8d6d2f1d2b6001c8b456b"},
+    "product_name": "Kos",
+    "brand": "Sandnes Garn",
+    "weight": "50g",
+    "material": "62% alpaca, 9% wool, 29% nylon",
+    "length_per_skein": "150m",
+    "stitches_per_10cm": "16",
+    "needle_size": "5.5 mm",
+    "colors": ["White", "Grey", "Navy", "Black", "Red", "Green", "Mustard"]
+  },
+  {
+    "_id": {"$oid": "60b8d6d2f1d2b6001c8b456c"},
+    "product_name": "Peer Gynt",
+    "brand": "Sandnes Garn",
+    "weight": "50g",
+    "material": "100% Norwegian wool",
+    "length_per_skein": "91m",
+    "stitches_per_10cm": "22",
+    "needle_size": "3.5-4 mm",
+    "colors": ["White", "Beige", "Grey", "Black", "Red", "Blue", "Green"]
+  }
+]
