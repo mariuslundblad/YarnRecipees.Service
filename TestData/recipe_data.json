@@ -7,6 +7,7 @@
     "description": "Anker's cardigan for children with a textured yoke.",
     "yarn": "Sandnes Garn Merinoull",
     "needles": "3.5 mm and 4.0 mm",
+    "gauge": "22 stitches x 30 rows = 10x10 cm",
     "sizes": ["3 months", "6 months", "12 months", "2 years", "4 years", "6 years", "8 years"],
     "size_chart": {
       "3 months": "50 cm chest, 27 cm length",
@@ -36,6 +37,7 @@
     "description": "A cozy and simple sweater for children.",
     "yarn": "Sandnes Garn Sunday",
     "needles": "4.0 mm and 5.0 mm",
+    "gauge": "18 stitches x 24 rows = 10x10 cm",
     "sizes": ["3 months", "6 months", "12 months", "2 years", "4 years", "6 years", "8 years"],
     "size_chart": {
       "3 months": "50 cm chest, 27 cm length",
@@ -65,6 +67,7 @@
     "description": "A classic and stylish sweater for children.",
     "yarn": "Sandnes Garn Double Sunday",
     "needles": "4.0 mm and 5.0 mm",
+    "gauge": "18 stitches x 24 rows = 10x10 cm",
     "sizes": ["3 months", "6 months", "12 months", "2 years", "4 years", "6 years", "8 years"],
     "size_chart": {
       "3 months": "50 cm chest, 27 cm length",
@@ -94,6 +97,7 @@
     "description": "A balloon-shaped sweater for children.",
     "yarn": "Sandnes Garn Sunday",
     "needles": "3.0 mm and 4.0 mm",
+    "gauge": "24 stitches x 30 rows = 10x10 cm",
     "sizes": ["3 months", "6 months", "12 months", "2 years", "4 years", "6 years", "8 years"],
     "size_chart": {
       "3 months": "50 cm chest, 27 cm length",
@@ -123,6 +127,7 @@
     "description": "A lightweight sweater for children.",
     "yarn": "Sandnes Garn Tynn Line",
     "needles": "3.0 mm and 4.0 mm",
+    "gauge": "28 stitches x 36 rows = 10x10 cm",
     "sizes": ["3 months", "6 months", "12 months", "2 years", "4 years", "6 years", "8 years"],
     "size_chart": {
       "3 months": "50 cm chest, 27 cm length",
