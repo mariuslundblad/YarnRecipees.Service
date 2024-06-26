@@ -1,2 +1,19 @@
-﻿- Alternative yarn for recipe given the gauge
-- Amount of yarn if another yarn is used for the recipe
+﻿- Expand model to support several yarn's per recipe (colors or materials)
+- Querying yarn and recipees based on name, brand, yarn etc.
+- Subquery for recipe collecting the named yarn
+- Subquery for recipe collecting a(or several) yarn alternatives based on gauge
+- expand model to Amount of yarn if another yarn is used for the recipe
+- More explicit connection between yarn used in recipe and yarn (foreign key)
+- authentication for usage of service
+- Ability to add other yarn types or recipees via mutations
+    - Would be nice to have a openai integration which only needs a url to the recipe or yarn
+    - OpenAi will translate the data on website into defined data structure
+    - Will need some sanity checks for url
+
+Programatically:
+- Move repository code into own solution (so it can be replaced if needed at some point)
+- Create test solution for integration testing and schema-testing
+
+
+Issues:
+- some yarn types (mohair) does not contain gauge/density (strikkefasthet)

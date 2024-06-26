@@ -13,6 +13,7 @@ public class DbRecipe
     public string yarn { get; set; }
     public string needles { get; set; }
     public string[] sizes { get; set; }
+    public string gauge { get; set; }
     public Dictionary<string, string> size_chart { get; set; }
     public Dictionary<string, string> yarn_needed { get; set; }
     public string image_url { get; set; }

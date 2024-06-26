@@ -19,6 +19,10 @@ public class Recipe
 
     public Dictionary<string, string> SizeChart { get; set; }
     
+    public string Description { get; set; }
+
+    public string Gauge { get; set; }
+    
     public static Recipe MapFromDbRecipe(DbRecipe? recipe)
     {
         return new Recipe
@@ -32,6 +36,8 @@ public class Recipe
             Sizes = recipe.sizes,
             SizeChart = recipe.size_chart,
             YarnNeeded = recipe.yarn_needed,
+            Gauge = recipe.gauge,
+            Description = recipe.description
             
         };
     }

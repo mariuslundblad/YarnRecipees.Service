@@ -13,5 +13,4 @@ public class DbYarn
     public string needle_size { get; set; }
     public string stitches_per_10cm { get; set; }
     public string[] colors { get; set; }
-    
 }
